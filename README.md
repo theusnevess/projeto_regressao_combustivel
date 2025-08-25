@@ -2,7 +2,7 @@
 
 ## Análise de Dados e Machine Learning para Previsão de Consumo
 
-![Car on Road](https://giphy.com/gifs/uofcalifornia-gas-fuel-pump-l2R05wdisVHTOuchy)
+![Car on Road](https://github.com/theusnevess/projeto_regressao_combustivel/blob/main/data/Gas%20Station%20Cars%20GIF%20by%20University%20of%20California.gif)
 
 Bem-vindo(a) ao `projeto_regressao_combustivel`! Este repositório é dedicado à análise de dados e à aplicação de técnicas de machine learning para prever o consumo de combustível (MPG - Miles Per Gallon) de veículos. O objetivo principal é identificar os fatores que influenciam o consumo e construir modelos preditivos precisos.
 
